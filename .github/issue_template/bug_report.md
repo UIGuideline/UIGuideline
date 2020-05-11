@@ -1,3 +1,12 @@
+---
+name: Bug report
+about: Bug report section to help UI Guideline improve
+title: Bug
+labels: 'bug'
+assignees: ''
+
+---
+
 **Note: for support questions, please use stackoverflow**
 
 ## Bug report
