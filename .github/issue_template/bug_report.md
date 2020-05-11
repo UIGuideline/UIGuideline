@@ -1,27 +1,38 @@
 ---
 name: Bug report
-about: Bug report section to help UI Guideline improve
-title: Bug
-labels: 'bug'
+about: Create a report to help UI Guideline improve
+title: ''
+labels: bug
 assignees: ''
 
 ---
 
-**Note: for support questions, please use stackoverflow**
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-## Bug report
-- **Steps to reproduce the problem**
- 
-	e.g. 
-  1. Go to Home Page.
-  2. Click on the "Subscribe" button.
-  3. Scroll down to the section named "select your email"
-  4. See error.
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-- **Please tell us about your environment:**
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
-  - Browser: [all | Chrome XX | Firefox XX | IE XX | Safari XX | Mobile Chrome XX | Android X.X Web Browser | iOS XX Safari | iOS XX UIWebView | iOS XX WKWebView ]
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
 
-* **Other information** (e.g. screenshot, detailed explanation, stacktraces, related issues, suggestions how to fix, links for us to have context, eg. stackoverflow, gitter, etc).
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
 
-  R://
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
+
+**Additional context**
+Add any other context about the problem here.
