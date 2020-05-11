@@ -24,7 +24,7 @@ Report bugs/request new feature: [Issues](https://github.com/UIGuideline/UIGuide
 
 Components in progress: [Component's status](https://github.com/UIGuideline/UIGuideline/projects)
 
-Road map: [Project](https://github.com/UIGuideline/UIGuideline/projects)
+Road map: [Project](https://github.com/UIGuideline/UIGuideline/projects/1)
 
 ### Official pages
 
