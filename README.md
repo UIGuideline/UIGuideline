@@ -6,6 +6,8 @@
 
 > We'll start by standardizing the names of the most-used components nowadays so that later we could focus on more detailed aspects such as component's props, states, good practices, code templates written initially in VueJS, Angular and React, among others factors that would make UI Guideline the mandatory guide for every UI designer and developer.
 
+<br>
+
 ## Quick tour
 
 ### Project
