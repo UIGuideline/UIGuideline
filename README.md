@@ -1,4 +1,5 @@
-## 📗 The UI mandatory guide (uinomicon)
+# 📗 The UI mandatory guide (uinomicon)
+
 > Hi, we're a group of people with different skills related to digital product development: Product/UX designers, Frontend/Backend developers, and Visual designers.
 
 > We run the [UI Guideline](https://www.uiguideline.com/) project in order to start a process that should've started many years ago: **Standardize the design and development of UI Components**.
@@ -14,7 +15,6 @@ Report bugs/request new feature: [Issues](https://github.com/UIGuideline/UIGuide
 Components in progress: [Component's status](https://github.com/UIGuideline/UIGuideline/projects)
 
 Road map: [Project](https://github.com/UIGuideline/UIGuideline/projects)
-
 
 ### Official pages
 
