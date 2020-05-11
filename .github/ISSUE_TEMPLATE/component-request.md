@@ -2,7 +2,7 @@
 name: Component request
 about: Suggestion for adding a new component (e.g. Header, Input, Popup, etc.)
 title: Component Request
-labels: ''
+labels: component request
 assignees: ''
 
 ---

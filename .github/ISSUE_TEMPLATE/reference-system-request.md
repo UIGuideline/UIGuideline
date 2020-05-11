@@ -2,7 +2,7 @@
 name: Reference system request
 about: Suggest to add a new reference system (Design System, UI Framework or Library)
 title: Ref. System Request
-labels: ''
+labels: ref system request
 assignees: ''
 
 ---
