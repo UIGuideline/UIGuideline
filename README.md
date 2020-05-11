@@ -1,3 +1,9 @@
+<h3 align="center">
+	<img width="200" src="https://firebasestorage.googleapis.com/v0/b/ui-guideline.appspot.com/o/images%2Flogo%2Fcomplete%2Fdefault%2Fdefault.svg?alt=media&token=27d74812-8033-40a0-8217-72e4c3e33b17" alt="Steroidesign">
+</h3>
+
+<br>
+
 # 📗 The UI mandatory guide (uinomicon)
 
 > Hi, we're a group of people with different skills related to digital product development: Product/UX designers, Frontend/Backend developers, and Visual designers.
