@@ -28,7 +28,7 @@ Road map: [Project](https://github.com/UIGuideline/UIGuideline/projects)
 
 [Contribution](https://uiguideline.typeform.com/to/E7jtdu) - Typeform
 
-[uiguideline.support@gmail.com](mailto:uiguideline.support@gmail.com) - Email
+[uiguideline.community@gmail.com](mailto:uiguideline.community@gmail.com) - Email
 
 <br>
 
