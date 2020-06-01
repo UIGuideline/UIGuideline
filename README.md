@@ -45,7 +45,7 @@ Road map: [Project](https://github.com/UIGuideline/UIGuideline/projects/1)
 ---
 
 <h3 align="center">
-	🚀 Join to the <a href="http://eepurl.com/c1fttz">UI Guideline Weekly</a> newsletter! 🚀 
+	🚀 Join to the <a href="https://winning-motivator-1085.ck.page/fb08dec536">UI Guideline Weekly</a> newsletter! 🚀 
 	<br> We'll submit a new set of components every week, so you could be the first to know it.
 </h3>
 
