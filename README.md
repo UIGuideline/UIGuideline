@@ -22,9 +22,9 @@
 
 Report bugs/request new feature: [Issues](https://github.com/UIGuideline/UIGuideline/issues)
 
-Components in progress: [Component's status](https://github.com/UIGuideline/UIGuideline/projects)
+Components in progress: [Component's status](https://trello.com/b/0GkhHSmD/ui-guideline-roadmap)
 
-Road map: [Project](https://github.com/UIGuideline/UIGuideline/projects/1)
+Road map: [Project](https://trello.com/b/0GkhHSmD/ui-guideline-roadmap)
 
 ### Official pages
 
