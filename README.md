@@ -38,7 +38,7 @@ Road map: [Project](https://trello.com/b/0GkhHSmD/ui-guideline-roadmap)
 
 [Contribution](https://uiguideline.typeform.com/to/E7jtdu) - Typeform
 
-[uiguideline.community@gmail.com](mailto:uiguideline.community@gmail.com) - Email
+[hello@uiguideline.com](mailto:hello@guiguideline.com) - Email
 
 <br>
 
